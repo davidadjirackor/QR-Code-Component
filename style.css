@@ -6,7 +6,7 @@ body{
 .main-card{
  max-width: 250px; 
  background-color: white;
-  margin: 200px auto;
+  margin: 100px auto;
   border-radius: 10px;
   padding: 10px;
 }
